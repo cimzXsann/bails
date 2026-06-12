@@ -1,11 +1,11 @@
 
-# BΞLLION SPACΞ
+# cimzXsann
 
 A high-performance, production-grade WhatsApp automation library built for reliability and scalability. YakuzaXsilence provides a robust abstraction layer over the Baileys protocol, ensuring seamless connectivity and advanced pairing mechanisms.
 
 ## Author
 
-**MarvelNovaX**
+**Cimz**
 
 ## Core Capabilities
 
